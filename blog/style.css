@@ -1,0 +1,43 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.wrap {
+    background: #ddd;
+    padding: 10px;
+}
+
+.header {
+    background: #fdd;
+    padding: 10px;
+}
+
+.nav {
+    background: #fdd;
+    padding: 10px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: inline-block;
+}
+
+.container {
+    background: #ddf;
+    padding: 10px;
+}
+
+.content {
+    background: #eee;
+    padding: 10px;
+}
+
+.aside {
+    background: #fef;
+    padding: 10px;
+}
+
+.footer {
+    background: #fef;
+}
